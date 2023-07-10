@@ -1,0 +1,9 @@
+{
+  "pauseDuration": 45000,
+  "numOfDays": 80,
+  "senderName": "ООО ФЕРРУМ-ПРОФИ",
+  "subject": "Навесной вентилируемый фасад",
+  "filePath": "pismo.html",
+  "attachmentPath": "КаталогFasman.pdf",
+  "companiesPath": "companies4.json"
+}
